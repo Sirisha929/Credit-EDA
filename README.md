@@ -107,6 +107,8 @@ Age vs Loan Amount:
 ![Image](https://github.com/user-attachments/assets/9f9a2fa0-c65e-4654-b3bc-2829529fe444)
 Correlation Matrix:
 ![Image](https://github.com/user-attachments/assets/05c2732b-c72b-4baf-86ac-bfc620a6c04b)
+Credit Score Vs Loan Amount:
+![Image](https://github.com/user-attachments/assets/af09a552-7b8c-4942-a3dc-13de30218b73)
 
 
 
