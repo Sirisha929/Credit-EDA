@@ -93,23 +93,23 @@ defaulted          0
 dtype: int64
 Duplicate Rows: 0
 
-BarGraph:
+#BarGraph:
 ![Image](https://github.com/user-attachments/assets/06da31a0-94da-4761-b296-38b535915dd6)
-BoxPlot:
+#BoxPlot:
 ![Image](https://github.com/user-attachments/assets/16a34f62-84fa-4142-8d3c-7ab77efac830)
-Gender Count:
+#Gender Count:
 ![Image](https://github.com/user-attachments/assets/f77faba0-cfcd-44d1-9847-38693db11b02)
-Deafult Status Count:
+#Deafult Status Count:
 ![Image](https://github.com/user-attachments/assets/1161c3a2-3135-4cb0-bb0d-3c4d5ca081ac)
-Income vs Default :
+#Income vs Default :
 ![Image](https://github.com/user-attachments/assets/ea767957-4798-4788-a2da-46ab0c1e22f5)
-Age vs Loan Amount:
+#Age vs Loan Amount:
 ![Image](https://github.com/user-attachments/assets/9f9a2fa0-c65e-4654-b3bc-2829529fe444)
-Correlation Matrix:
+#Correlation Matrix:
 ![Image](https://github.com/user-attachments/assets/05c2732b-c72b-4baf-86ac-bfc620a6c04b)
-Credit Score Vs Loan Amount:
+#Credit Score Vs Loan Amount:
 ![Image](https://github.com/user-attachments/assets/af09a552-7b8c-4942-a3dc-13de30218b73)
-3D Scatter Plot:
+#3D Scatter Plot:
 ![Image](https://github.com/user-attachments/assets/35bf4afa-1621-4a83-9ac0-be5e44b1f6bf)
 
 
