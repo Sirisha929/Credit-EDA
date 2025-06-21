@@ -145,7 +145,7 @@ The best features to use for predictive modeling
 
 🙋‍♀️ Author
 Gadipudi Sirisha (Y21IT029)
-Final Year Student — RVR & JC College of Engineering
+pre Final Year Student — RVR & JC College of Engineering
 
 
 
