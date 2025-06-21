@@ -105,6 +105,8 @@ Income vs Default :
 ![Image](https://github.com/user-attachments/assets/ea767957-4798-4788-a2da-46ab0c1e22f5)
 Age vs Loan Amount:
 ![Image](https://github.com/user-attachments/assets/9f9a2fa0-c65e-4654-b3bc-2829529fe444)
+Correlation Matrix:
+![Image](https://github.com/user-attachments/assets/05c2732b-c72b-4baf-86ac-bfc620a6c04b)
 
 
 
