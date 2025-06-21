@@ -103,6 +103,8 @@ Deafult Status Count:
 ![Image](https://github.com/user-attachments/assets/1161c3a2-3135-4cb0-bb0d-3c4d5ca081ac)
 Income vs Default :
 ![Image](https://github.com/user-attachments/assets/ea767957-4798-4788-a2da-46ab0c1e22f5)
+Age vs Loan Amount:
+![Image](https://github.com/user-attachments/assets/9f9a2fa0-c65e-4654-b3bc-2829529fe444)
 
 
 
