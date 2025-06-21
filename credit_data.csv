@@ -1,0 +1,201 @@
+customer_id,age,gender,income,loan_amount,loan_term,credit_score,employment_type,marital_status,education,residence_type,dependents,purpose,defaulted
+C001,59,Female,46738,193860,60,427,Salaried,Married,Not Graduate,Company Provided,2,Business,0
+C002,49,Male,42871,232444,12,414,Self-employed,Single,Not Graduate,Company Provided,2,Education,0
+C003,35,Male,40859,239013,12,508,Self-employed,Single,Not Graduate,Rented,2,Business,0
+C004,63,Male,37797,207553,60,825,Self-employed,Single,Not Graduate,Company Provided,3,Car,0
+C005,28,Female,15228,138413,60,820,Salaried,Single,Graduate,Owned,1,Home,1
+C006,41,Female,45979,209479,36,536,Self-employed,Married,Graduate,Rented,2,Business,1
+C007,59,Male,66444,269979,12,580,Salaried,Single,Graduate,Rented,0,Business,1
+C008,39,Female,44968,177628,48,658,Self-employed,Married,Graduate,Rented,2,Business,0
+C009,43,Female,59526,217030,24,500,Salaried,Married,Graduate,Owned,2,Business,0
+C010,31,Female,33796,199311,24,577,Self-employed,Married,Not Graduate,Company Provided,2,Home,0
+C011,31,Female,30414,268618,60,534,Salaried,Married,Not Graduate,Owned,3,Home,0
+C012,44,Female,38738,166110,36,793,Self-employed,Married,Not Graduate,Rented,0,Car,0
+C013,56,Male,34617,257676,24,303,Salaried,Married,Not Graduate,Owned,1,Home,1
+C014,60,Female,32254,181249,12,741,Salaried,Married,Not Graduate,Owned,0,Business,0
+C015,44,Male,56746,165292,60,328,Salaried,Married,Not Graduate,Company Provided,1,Car,0
+C016,23,Male,76683,205493,48,408,Salaried,Married,Not Graduate,Company Provided,3,Car,0
+C017,42,Female,39995,217122,60,374,Self-employed,Married,Graduate,Rented,3,Car,0
+C018,22,Male,24622,295576,48,445,Self-employed,Single,Graduate,Owned,3,Business,0
+C019,44,Male,59851,215976,60,427,Salaried,Single,Graduate,Owned,3,Education,1
+C020,64,Male,28461,209663,60,341,Self-employed,Single,Graduate,Company Provided,1,Business,1
+C021,50,Female,32251,279807,60,655,Salaried,Married,Not Graduate,Owned,2,Home,1
+C022,58,Female,57424,230052,48,340,Salaried,Single,Not Graduate,Owned,1,Home,0
+C023,22,Male,47520,167786,48,333,Self-employed,Single,Not Graduate,Owned,0,Business,0
+C024,41,Female,39692,267798,60,316,Salaried,Single,Graduate,Company Provided,3,Business,0
+C025,53,Female,51025,163019,24,452,Salaried,Married,Not Graduate,Rented,3,Car,0
+C026,32,Female,43858,167537,36,677,Self-employed,Married,Not Graduate,Rented,0,Business,1
+C027,42,Female,78343,157573,36,641,Salaried,Married,Not Graduate,Owned,1,Car,0
+C028,64,Male,39862,153187,36,326,Salaried,Married,Graduate,Rented,2,Home,0
+C029,45,Male,36298,216658,48,586,Salaried,Single,Not Graduate,Company Provided,2,Car,0
+C030,47,Female,43174,187104,48,467,Salaried,Single,Graduate,Company Provided,0,Business,0
+C031,62,Female,43808,26091,24,567,Self-employed,Single,Graduate,Rented,2,Home,1
+C032,48,Male,58934,186586,36,754,Self-employed,Single,Graduate,Rented,1,Education,0
+C033,36,Male,20126,174104,36,700,Self-employed,Married,Graduate,Owned,1,Car,0
+C034,35,Female,56390,244641,60,775,Salaried,Married,Not Graduate,Rented,0,Home,0
+C035,64,Male,41880,171837,48,429,Salaried,Married,Graduate,Owned,1,Car,0
+C036,23,Female,61652,326962,36,662,Self-employed,Single,Graduate,Owned,3,Home,1
+C037,57,Female,49285,269839,24,591,Salaried,Married,Not Graduate,Company Provided,0,Home,1
+C038,27,Male,57780,180504,24,670,Salaried,Married,Not Graduate,Company Provided,1,Car,1
+C039,41,Male,44128,257481,36,328,Salaried,Single,Graduate,Company Provided,0,Education,1
+C040,29,Female,56570,226260,48,448,Salaried,Single,Not Graduate,Company Provided,2,Home,0
+C041,59,Female,74956,211673,24,595,Self-employed,Married,Graduate,Rented,1,Home,0
+C042,38,Male,38911,240132,60,310,Self-employed,Married,Graduate,Company Provided,3,Home,0
+C043,24,Female,48392,202703,24,811,Self-employed,Married,Graduate,Rented,1,Education,0
+C044,45,Male,42706,212017,12,412,Salaried,Married,Graduate,Company Provided,0,Education,1
+C045,34,Female,73894,241167,12,486,Self-employed,Married,Not Graduate,Rented,0,Business,0
+C046,29,Male,43490,302622,48,526,Self-employed,Married,Graduate,Owned,1,Car,1
+C047,46,Male,39009,212559,36,609,Salaried,Single,Not Graduate,Rented,3,Education,0
+C048,22,Male,41325,177310,48,397,Salaried,Single,Not Graduate,Rented,3,Car,0
+C049,40,Female,47964,98538,48,354,Self-employed,Single,Not Graduate,Company Provided,3,Business,0
+C050,48,Female,38097,298065,48,705,Self-employed,Married,Not Graduate,Rented,0,Car,1
+C051,27,Male,44473,186837,48,368,Self-employed,Single,Graduate,Owned,1,Education,0
+C052,64,Female,52358,226740,60,611,Self-employed,Married,Not Graduate,Owned,2,Car,0
+C053,28,Male,48267,295295,60,588,Salaried,Married,Graduate,Company Provided,0,Education,0
+C054,55,Male,62475,211380,24,847,Self-employed,Single,Not Graduate,Owned,3,Car,0
+C055,34,Female,45209,190266,12,447,Self-employed,Married,Not Graduate,Rented,1,Education,0
+C056,37,Female,46930,270983,48,766,Salaried,Married,Graduate,Owned,3,Education,1
+C057,56,Male,54065,223036,24,543,Self-employed,Single,Graduate,Company Provided,2,Car,0
+C058,60,Female,83672,229305,12,790,Salaried,Single,Graduate,Rented,3,Business,0
+C059,24,Female,38185,123841,36,806,Salaried,Single,Not Graduate,Company Provided,3,Home,0
+C060,22,Male,78854,260295,60,664,Salaried,Married,Not Graduate,Rented,2,Business,0
+C061,26,Male,32246,218779,12,781,Self-employed,Single,Graduate,Owned,1,Car,1
+C062,62,Female,53434,131420,36,500,Self-employed,Single,Graduate,Company Provided,0,Business,0
+C063,24,Male,44909,224254,12,453,Salaried,Married,Graduate,Company Provided,1,Education,0
+C064,49,Male,37770,96873,60,749,Self-employed,Single,Graduate,Rented,2,Home,0
+C065,38,Female,60486,317098,60,800,Self-employed,Single,Not Graduate,Company Provided,3,Car,1
+C066,46,Male,58998,144907,24,372,Salaried,Single,Graduate,Rented,1,Car,1
+C067,64,Male,42781,280589,48,595,Salaried,Married,Graduate,Rented,0,Car,0
+C068,54,Female,18593,159352,12,316,Self-employed,Married,Graduate,Rented,2,Home,0
+C069,30,Female,43699,228011,12,516,Salaried,Married,Graduate,Rented,1,Education,0
+C070,56,Male,52088,154393,36,360,Self-employed,Married,Not Graduate,Owned,0,Car,1
+C071,34,Male,50027,249855,60,341,Self-employed,Single,Graduate,Rented,2,Business,0
+C072,51,Female,61339,188234,12,324,Self-employed,Married,Not Graduate,Company Provided,0,Car,0
+C073,35,Female,79003,223388,60,338,Self-employed,Married,Graduate,Owned,2,Car,0
+C074,28,Female,56208,200753,12,430,Salaried,Single,Graduate,Company Provided,3,Car,0
+C075,34,Female,58516,131716,24,797,Salaried,Single,Not Graduate,Owned,1,Car,0
+C076,43,Male,52222,225205,48,528,Salaried,Single,Graduate,Rented,0,Education,1
+C077,60,Female,67586,174838,12,407,Salaried,Married,Not Graduate,Owned,2,Business,0
+C078,41,Female,57971,252265,60,471,Self-employed,Married,Not Graduate,Owned,0,Education,0
+C079,36,Male,61236,188207,24,734,Self-employed,Married,Graduate,Company Provided,0,Business,0
+C080,38,Female,77134,196161,12,777,Salaried,Single,Not Graduate,Company Provided,1,Car,1
+C081,44,Male,53404,284146,36,401,Self-employed,Single,Not Graduate,Rented,3,Home,0
+C082,46,Female,45935,319081,48,823,Self-employed,Married,Not Graduate,Owned,0,Education,1
+C083,45,Female,56694,239301,12,574,Self-employed,Single,Not Graduate,Owned,2,Home,0
+C084,61,Female,67043,185642,24,343,Salaried,Single,Not Graduate,Owned,2,Education,0
+C085,49,Male,57521,181266,36,316,Salaried,Single,Not Graduate,Rented,3,Car,0
+C086,35,Male,65909,159066,24,629,Salaried,Married,Not Graduate,Rented,2,Education,0
+C087,21,Female,39965,168738,24,796,Self-employed,Single,Not Graduate,Rented,3,Car,0
+C088,45,Male,36978,186319,36,311,Salaried,Single,Graduate,Rented,2,Education,1
+C089,27,Male,41824,298212,24,617,Salaried,Married,Graduate,Rented,1,Car,0
+C090,29,Male,30989,190138,36,515,Salaried,Married,Not Graduate,Company Provided,0,Car,0
+C091,44,Male,51654,138697,12,638,Salaried,Single,Graduate,Owned,1,Business,0
+C092,21,Male,43549,202083,36,380,Salaried,Single,Not Graduate,Owned,0,Car,1
+C093,64,Male,68453,208906,36,784,Salaried,Married,Not Graduate,Owned,0,Business,1
+C094,28,Female,30631,201781,48,673,Self-employed,Married,Graduate,Owned,0,Car,0
+C095,44,Female,73323,239984,36,499,Self-employed,Single,Not Graduate,Owned,1,Home,1
+C096,31,Male,35281,203450,36,836,Salaried,Single,Not Graduate,Owned,0,Car,0
+C097,37,Female,31426,238436,12,765,Salaried,Single,Not Graduate,Owned,1,Home,0
+C098,28,Female,37630,160982,48,388,Self-employed,Single,Not Graduate,Owned,3,Home,1
+C099,55,Female,79269,289036,60,567,Self-employed,Married,Graduate,Company Provided,2,Car,1
+C100,55,Female,49398,212623,12,788,Salaried,Single,Not Graduate,Owned,2,Home,0
+C101,53,Male,57941,220010,12,837,Salaried,Single,Not Graduate,Company Provided,0,Business,0
+C102,25,Female,47241,160774,60,346,Salaried,Married,Not Graduate,Rented,1,Education,0
+C103,62,Female,48648,223591,36,587,Salaried,Single,Graduate,Owned,2,Car,1
+C104,59,Male,42411,232553,24,315,Self-employed,Married,Not Graduate,Rented,1,Home,0
+C105,61,Male,50761,141511,48,700,Salaried,Single,Graduate,Rented,1,Car,0
+C106,48,Female,57418,117045,24,385,Salaried,Single,Graduate,Rented,0,Business,0
+C107,27,Female,75174,214683,60,549,Salaried,Married,Not Graduate,Company Provided,2,Car,0
+C108,29,Female,21882,175561,12,690,Salaried,Married,Not Graduate,Rented,0,Car,0
+C109,28,Female,74162,212996,12,634,Self-employed,Single,Graduate,Rented,0,Home,1
+C110,32,Female,57919,135448,48,818,Self-employed,Single,Not Graduate,Rented,2,Business,0
+C111,54,Female,44483,121974,12,436,Self-employed,Single,Graduate,Owned,2,Education,0
+C112,53,Male,41784,210334,12,797,Salaried,Married,Graduate,Owned,3,Education,0
+C113,43,Female,65655,182510,48,776,Salaried,Single,Not Graduate,Company Provided,3,Home,1
+C114,44,Female,53434,94465,48,522,Self-employed,Married,Not Graduate,Company Provided,1,Car,0
+C115,57,Male,26989,267154,60,671,Salaried,Married,Graduate,Owned,2,Home,0
+C116,55,Male,55446,134617,12,701,Salaried,Single,Graduate,Company Provided,3,Home,1
+C117,64,Male,67165,328666,12,742,Self-employed,Married,Graduate,Owned,1,Home,1
+C118,60,Male,62867,168799,60,789,Self-employed,Single,Graduate,Rented,1,Car,1
+C119,42,Female,40597,220078,36,572,Self-employed,Single,Not Graduate,Rented,1,Business,1
+C120,47,Female,29869,282347,36,825,Self-employed,Single,Not Graduate,Company Provided,3,Home,0
+C121,55,Female,45110,273971,36,458,Salaried,Single,Not Graduate,Owned,2,Car,1
+C122,21,Female,98809,299306,60,451,Salaried,Single,Not Graduate,Owned,0,Business,0
+C123,55,Female,26825,123846,12,487,Self-employed,Married,Not Graduate,Company Provided,1,Home,1
+C124,57,Female,37358,143206,60,397,Salaried,Married,Graduate,Owned,3,Education,1
+C125,34,Male,55880,211299,60,430,Self-employed,Single,Not Graduate,Rented,3,Business,1
+C126,23,Female,48132,241987,36,470,Self-employed,Single,Not Graduate,Company Provided,0,Home,0
+C127,21,Male,46996,199438,24,482,Salaried,Married,Not Graduate,Company Provided,0,Business,0
+C128,25,Male,80370,118100,12,663,Self-employed,Married,Not Graduate,Owned,3,Business,0
+C129,46,Female,37201,224828,36,338,Salaried,Married,Not Graduate,Company Provided,2,Business,1
+C130,34,Male,49785,190287,24,826,Salaried,Married,Graduate,Owned,0,Business,1
+C131,59,Female,53028,189688,24,796,Salaried,Single,Graduate,Owned,3,Business,0
+C132,47,Male,37928,86102,48,815,Salaried,Single,Graduate,Owned,0,Business,0
+C133,29,Female,28390,239874,12,648,Self-employed,Married,Not Graduate,Owned,2,Home,0
+C134,35,Male,54039,207260,24,696,Salaried,Single,Graduate,Owned,1,Education,1
+C135,35,Female,77204,289758,36,460,Self-employed,Married,Graduate,Company Provided,0,Car,1
+C136,46,Female,56068,196274,48,315,Self-employed,Single,Not Graduate,Rented,2,Business,0
+C137,62,Female,51351,228317,12,792,Self-employed,Married,Not Graduate,Rented,3,Car,0
+C138,33,Female,51240,241590,60,725,Self-employed,Single,Not Graduate,Company Provided,0,Home,1
+C139,52,Female,46123,112691,36,407,Salaried,Married,Graduate,Company Provided,0,Business,1
+C140,59,Male,67752,330834,24,749,Salaried,Married,Graduate,Rented,3,Education,0
+C141,52,Male,42418,178460,24,610,Self-employed,Single,Not Graduate,Rented,1,Car,0
+C142,24,Male,29648,224728,36,469,Self-employed,Married,Not Graduate,Rented,3,Business,0
+C143,50,Female,26275,232029,24,845,Salaried,Single,Graduate,Rented,0,Home,0
+C144,57,Male,51185,159260,48,713,Self-employed,Single,Graduate,Rented,3,Education,0
+C145,43,Female,65910,292349,12,550,Salaried,Married,Not Graduate,Owned,2,Car,0
+C146,59,Female,53562,213297,48,440,Self-employed,Single,Not Graduate,Company Provided,3,Car,1
+C147,35,Male,45239,189326,24,573,Salaried,Single,Graduate,Owned,0,Business,0
+C148,63,Male,56876,206925,60,715,Self-employed,Single,Not Graduate,Rented,3,Education,1
+C149,49,Female,52793,238212,12,338,Self-employed,Single,Graduate,Rented,1,Education,0
+C150,56,Male,62392,200539,12,328,Salaried,Single,Graduate,Rented,3,Education,0
+C151,33,Female,69897,244096,36,776,Self-employed,Married,Graduate,Owned,1,Education,0
+C152,52,Female,35684,115756,36,617,Self-employed,Single,Graduate,Owned,2,Home,0
+C153,27,Female,14906,162601,60,544,Salaried,Single,Not Graduate,Rented,1,Education,1
+C154,42,Female,44726,93059,12,571,Self-employed,Single,Not Graduate,Owned,3,Car,1
+C155,48,Female,34709,299850,60,739,Salaried,Single,Graduate,Owned,0,Car,0
+C156,22,Male,62479,299199,36,538,Salaried,Single,Graduate,Rented,1,Home,0
+C157,62,Male,39134,231330,36,676,Self-employed,Married,Graduate,Owned,2,Car,1
+C158,26,Female,21863,149369,12,565,Self-employed,Single,Graduate,Company Provided,1,Car,0
+C159,48,Female,41386,319493,48,658,Self-employed,Married,Graduate,Company Provided,1,Education,0
+C160,48,Male,27620,169779,24,639,Self-employed,Married,Not Graduate,Company Provided,1,Car,1
+C161,64,Male,73852,189339,36,688,Self-employed,Married,Not Graduate,Company Provided,2,Home,0
+C162,64,Female,57074,207976,36,302,Self-employed,Married,Not Graduate,Rented,3,Education,0
+C163,40,Male,59713,222575,48,728,Self-employed,Single,Not Graduate,Rented,1,Business,0
+C164,50,Female,58040,232190,48,441,Salaried,Married,Graduate,Rented,1,Education,1
+C165,31,Male,62602,234198,60,675,Self-employed,Married,Graduate,Company Provided,0,Home,0
+C166,48,Female,67000,192773,60,623,Salaried,Single,Graduate,Company Provided,2,Education,0
+C167,45,Male,41903,233405,24,445,Self-employed,Single,Graduate,Owned,1,Education,1
+C168,59,Female,28700,190539,24,592,Self-employed,Single,Graduate,Owned,2,Home,0
+C169,53,Male,37295,228965,12,731,Salaried,Married,Not Graduate,Company Provided,1,Education,1
+C170,21,Male,49321,224864,60,698,Self-employed,Single,Graduate,Company Provided,3,Home,0
+C171,47,Female,11534,238142,36,643,Self-employed,Single,Not Graduate,Company Provided,3,Home,1
+C172,33,Male,67140,231898,60,439,Salaried,Married,Not Graduate,Company Provided,1,Business,0
+C173,61,Female,21548,177878,36,486,Self-employed,Single,Not Graduate,Owned,3,Car,0
+C174,23,Male,58986,222935,48,360,Self-employed,Single,Not Graduate,Company Provided,1,Car,0
+C175,59,Female,47478,232669,60,679,Self-employed,Single,Graduate,Owned,3,Education,0
+C176,26,Male,54277,135443,48,739,Salaried,Single,Not Graduate,Company Provided,0,Education,1
+C177,28,Female,42921,186297,24,618,Self-employed,Married,Not Graduate,Company Provided,0,Business,1
+C178,47,Male,53258,230405,24,601,Self-employed,Single,Not Graduate,Company Provided,0,Business,0
+C179,29,Female,42921,285464,12,643,Self-employed,Single,Graduate,Owned,2,Business,0
+C180,57,Male,41657,241245,60,310,Self-employed,Married,Graduate,Owned,2,Home,1
+C181,53,Female,36541,288618,48,361,Salaried,Single,Graduate,Rented,0,Business,1
+C182,62,Female,72887,180081,36,525,Salaried,Married,Not Graduate,Company Provided,2,Business,0
+C183,64,Female,55503,212509,24,452,Self-employed,Single,Not Graduate,Rented,3,Education,0
+C184,44,Male,53142,240286,24,609,Self-employed,Married,Graduate,Rented,1,Business,0
+C185,35,Female,36866,83682,36,542,Salaried,Married,Not Graduate,Owned,1,Home,0
+C186,52,Male,46477,275540,48,792,Salaried,Married,Graduate,Owned,1,Home,0
+C187,52,Female,35191,106954,48,665,Self-employed,Married,Graduate,Rented,0,Education,0
+C188,44,Male,42632,249847,60,629,Salaried,Single,Not Graduate,Company Provided,2,Business,0
+C189,61,Female,31863,234341,60,406,Self-employed,Married,Not Graduate,Owned,3,Business,1
+C190,32,Male,73837,83020,12,525,Salaried,Single,Not Graduate,Company Provided,3,Home,0
+C191,59,Male,38646,85546,24,517,Salaried,Married,Not Graduate,Company Provided,0,Business,0
+C192,22,Female,36873,271624,60,805,Salaried,Married,Graduate,Rented,3,Business,0
+C193,23,Male,30115,260736,48,558,Salaried,Married,Graduate,Rented,3,Business,0
+C194,57,Male,38431,155956,36,816,Self-employed,Single,Graduate,Rented,3,Car,0
+C195,37,Female,42576,155906,48,353,Salaried,Married,Graduate,Rented,3,Education,0
+C196,22,Male,49257,225630,24,346,Salaried,Single,Graduate,Owned,2,Car,0
+C197,22,Male,40320,199362,48,820,Self-employed,Single,Not Graduate,Owned,3,Education,0
+C198,48,Male,25990,252719,12,398,Salaried,Single,Graduate,Rented,1,Home,0
+C199,43,Female,27281,223979,24,319,Salaried,Single,Graduate,Owned,0,Business,0
+C200,57,Male,60194,279151,36,789,Self-employed,Single,Graduate,Rented,2,Education,1
