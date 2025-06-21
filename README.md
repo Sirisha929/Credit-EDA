@@ -28,6 +28,11 @@ To analyze customer financial data and understand the key factors that affect **
 
 ---
 
+
+
+Output:  
+![Image](https://github.com/user-attachments/assets/06da31a0-94da-4761-b296-38b535915dd6)
+
 ## 🛠️ Tools & Libraries
 
 - Python 3.8+
@@ -60,5 +65,8 @@ The best features to use for predictive modeling
 🙋‍♀️ Author
 Gadipudi Sirisha (Y21IT029)
 Final Year Student — RVR & JC College of Engineering
+
+
+
 
 
