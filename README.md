@@ -97,6 +97,8 @@ BarGraph:
 ![Image](https://github.com/user-attachments/assets/06da31a0-94da-4761-b296-38b535915dd6)
 BoxPlot:
 ![Image](https://github.com/user-attachments/assets/16a34f62-84fa-4142-8d3c-7ab77efac830)
+Gender Count:
+![Image](https://github.com/user-attachments/assets/f77faba0-cfcd-44d1-9847-38693db11b02)
 
 
 
