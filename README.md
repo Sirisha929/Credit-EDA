@@ -101,6 +101,8 @@ Gender Count:
 ![Image](https://github.com/user-attachments/assets/f77faba0-cfcd-44d1-9847-38693db11b02)
 Deafult Status Count:
 ![Image](https://github.com/user-attachments/assets/1161c3a2-3135-4cb0-bb0d-3c4d5ca081ac)
+Income vs Default :
+![Image](https://github.com/user-attachments/assets/ea767957-4798-4788-a2da-46ab0c1e22f5)
 
 
 
