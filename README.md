@@ -93,7 +93,13 @@ defaulted          0
 dtype: int64
 Duplicate Rows: 0
 
+BarGraph:
 ![Image](https://github.com/user-attachments/assets/06da31a0-94da-4761-b296-38b535915dd6)
+BoxPlot:
+![Image](https://github.com/user-attachments/assets/16a34f62-84fa-4142-8d3c-7ab77efac830)
+
+
+
 
 ## 🛠️ Tools & Libraries
 
