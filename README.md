@@ -109,7 +109,8 @@ Correlation Matrix:
 ![Image](https://github.com/user-attachments/assets/05c2732b-c72b-4baf-86ac-bfc620a6c04b)
 Credit Score Vs Loan Amount:
 ![Image](https://github.com/user-attachments/assets/af09a552-7b8c-4942-a3dc-13de30218b73)
-
+3D Scatter Plot:
+![Image](https://github.com/user-attachments/assets/35bf4afa-1621-4a83-9ac0-be5e44b1f6bf)
 
 
 
